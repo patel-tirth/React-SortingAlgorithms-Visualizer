@@ -5,7 +5,7 @@ import {bubbleSortAnimations} from './BubbleSort.js';
 import {selectionSortAnimations} from './SelectionSort.js';
 
 // Change this value for the speed of the animations.
-const ANIMATION_SPEED_MS = 1000;
+const ANIMATION_SPEED_MS = 8;
 
 const PRIMARY_COLOR = '#00ff55';
 
@@ -32,7 +32,7 @@ export default class SortingVisualizer extends React.Component {
     resetArray(){
         
         const array = [];
-        for(let i = 0 ; i<10; ++i){
+        for(let i = 0 ; i<80; ++i){
            array.push(randomIntFromInterval(5,420));
         }
 
