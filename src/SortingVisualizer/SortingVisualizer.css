@@ -1,0 +1,38 @@
+body{
+    background: #141414;
+}
+
+
+.arrayBar{
+    width: 9px;
+    background-color: #000;
+    display: inline-block;
+    /* margin: 30px 1px;
+     */
+     margin-top: 100px;
+     margin-left: 1.5px;
+     margin-right: 1.5px
+}
+
+.arrayContainer {
+    position: absolute;
+    left: 100px;
+}
+
+.generateNewArray {
+    /* position: absolute; */
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 5px 10px;
+}   
+
+.bubbleSort,
+.mergeSort,
+.selectionSort,
+.quickSort{ 
+   
+     margin-top: 10px;
+    margin-left: 10px;
+    padding: 5px 10px; 
+ }
+ 
