@@ -1,6 +1,7 @@
 
 
-This is a Sorting Visualizer amde using React that visualizes various sorting algorithms. 
+This is a Sorting Visualizer made using React that visualizes various sorting algorithms. 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ### Demo
 [Sorting-Visualizer](https://patel-tirth.github.io/React-SortingAlgorithms-Visualizer/)
