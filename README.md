@@ -1,6 +1,6 @@
 
 
-This is a Sorting Visualizer made using React that visualizes various sorting algorithms. 
+This is a Sorting Visualizer made using React that visualizes various sorting algorithms such as bubble sort, selection sort, merge sort and quick sort.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ### Demo
