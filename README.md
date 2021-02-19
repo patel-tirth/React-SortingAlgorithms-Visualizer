@@ -3,7 +3,7 @@
 This is a Sorting Visualizer amde using React that visualizes various sorting algorithms. 
 
 ### Demo
-[https://patel-tirth.github.io/React-SortingAlgorithms-Visualizer/](Sorting-Visualizer)
+[Sorting-Visualizer](https://patel-tirth.github.io/React-SortingAlgorithms-Visualizer/)
 
 
 ## Usage
@@ -30,7 +30,7 @@ The build is minified and the filenames include the hashes.<br />
 
 ## Built with
 
-[https://reactjs.org/](React) - A Javascript library for building user interfaces
+[React](https://reactjs.org/) - A Javascript library for building user interfaces
 
 
 
