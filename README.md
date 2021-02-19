@@ -1,6 +1,15 @@
 
-## Available Scripts
 
+This is a Sorting Visualizer amde using React that visualizes various sorting algorithms. 
+
+### Demo
+[https://patel-tirth.github.io/React-SortingAlgorithms-Visualizer/](Sorting-Visualizer)
+
+
+## Usage
+Clone this repository and open the terminal in the project directory and install the dependencies:
+
+### `npm install`
 To run the project, open the terminal in the project directory and run:
 
 ### `npm start`
@@ -18,7 +27,12 @@ Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+
+## Built with
+
+[https://reactjs.org/](React) - A Javascript library for building user interfaces
+
+
 
 
 
