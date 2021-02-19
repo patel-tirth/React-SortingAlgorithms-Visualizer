@@ -29,6 +29,11 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br />
 
+## To do
+Implement quick sort.<br />
+To implement quick sort, go to SortingVisualizer directory inside /src directory and implement quick sort there. <br />
+The App in rendered in App.js file
+
 ## Built with
 
 [React](https://reactjs.org/) - A Javascript library for building user interfaces
